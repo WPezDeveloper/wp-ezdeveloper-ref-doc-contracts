@@ -22,4 +22,8 @@ Source: Joshua Patterson via FB AWP
 
 http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/
 
-Source: Heather Baker Steele
+Source: Heather Baker Steele via FB AWP
+
+https://www.youtube.com/watch?v=jVkLVRt6c1U
+
+Source: Trace Richardson via FB AWP
