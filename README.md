@@ -5,11 +5,22 @@ WPezDeveloper Reference Document
 
 A collection of knowledge as it relates to WordPress developers, WP development, clients, projects and contracts. 
 
+TODO - Organize & distill. For now this is a simple "dump".
+
 =========================================================================================================================
 ###DISCLAIMER: Infomation here is strictly for reference. For sound and fitting legal advice, please consult an attorney.
 =========================================================================================================================
 
-####TODO - Organize & distill. For now this is a simple "dump".
+
+
+---
+
+**"What this WPezDevelope Ref Doc stuff all about?"**
+
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+
+---
+
 
 
 ####Contract Killer
